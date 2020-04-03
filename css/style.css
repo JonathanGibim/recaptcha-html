@@ -1,0 +1,37 @@
+.bg-nowi-primary{
+	background-color: #5828B0;
+}
+.color-nowi-primary{
+	color: #5828B0;
+}
+.link-white, .link-white:hover{
+	color: #ffffff;
+	text-decoration: none;
+}
+.btn-nowi-primary, .btn-nowi-secondary:hover{
+	color: #fff;
+	background-color: #5828B0;
+	border: 1px solid  #fff;
+}
+.btn-nowi-primary:hover, .btn-nowi-secondary{
+	color: #5828B0;
+	background-color: #ffffff;
+	border: 1px solid  #5828B0;
+}
+.bg-nowi-default{
+	background-color: #a0a0a0;
+}
+.border-none{
+	border: none;
+}
+.form-control:focus {
+	color: #495057;
+	background-color: #fff;
+	border-color: #5828b0;
+	outline: 0;
+	box-shadow:none;
+}
+.form-control-nowi {
+	display: inline;
+	width: auto;
+}
